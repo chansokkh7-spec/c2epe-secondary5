@@ -1,0 +1,378 @@
+WEBVTT
+
+1
+00:00:00.350 --> 00:00:05.130
+Hello, everyone! I'm Ms. Emma. Welcome to Online C two, Book two.
+
+2
+00:00:05.430 --> 00:00:08.700
+Hi! I'm Visal. Let's learn together!
+
+3
+00:00:09.000 --> 00:00:15.425
+Unit sixteen: Ethics of AI. Today you will assign responsibility using passive modals.
+
+4
+00:00:15.725 --> 00:00:18.343
+Here is our lesson map. Let's start!
+
+5
+00:00:19.300 --> 00:00:22.428
+Part one: words. You will learn eight new words.
+
+6
+00:00:23.283 --> 00:00:24.877
+Algorithmic bias.
+
+7
+00:00:25.883 --> 00:00:31.633
+Algorithmic bias means unfair patterns in an algorithm's results, often reflecting biased data.
+
+8
+00:00:32.217 --> 00:00:35.702
+Algorithmic bias denied qualified applicants interviews.
+
+9
+00:00:36.317 --> 00:00:39.631
+Your turn. Say: Algorithmic bias.
+
+10
+00:00:42.467 --> 00:00:44.153
+Algorithmic bias.
+
+11
+00:00:44.917 --> 00:00:46.301
+Accountability.
+
+12
+00:00:47.317 --> 00:00:52.172
+Accountability means the obligation to explain and answer for one's actions.
+
+13
+00:00:52.783 --> 00:00:56.373
+Accountability requires that someone can be called to answer.
+
+14
+00:00:56.983 --> 00:00:59.879
+Your turn. Say: Accountability.
+
+15
+00:01:02.733 --> 00:01:04.106
+Accountability.
+
+16
+00:01:04.850 --> 00:01:06.292
+Transparency.
+
+17
+00:01:07.283 --> 00:01:11.709
+Transparency means openness about how a system works and makes decisions.
+
+18
+00:01:12.317 --> 00:01:16.069
+Transparency allows outsiders to audit automated decisions.
+
+19
+00:01:16.683 --> 00:01:19.719
+Your turn. Say: Transparency.
+
+20
+00:01:22.567 --> 00:01:23.812
+Transparency.
+
+21
+00:01:24.550 --> 00:01:25.795
+Autonomy.
+
+22
+00:01:26.783 --> 00:01:31.349
+Autonomy means the ability to act independently, without outside control.
+
+23
+00:01:31.950 --> 00:01:35.029
+Greater machine autonomy complicates the question of blame.
+
+24
+00:01:35.617 --> 00:01:38.176
+Your turn. Say: Autonomy.
+
+25
+00:01:41.033 --> 00:01:42.127
+Autonomy.
+
+26
+00:01:42.883 --> 00:01:44.337
+AI alignment.
+
+27
+00:01:45.350 --> 00:01:50.217
+AI alignment means making AI systems pursue goals consistent with human values.
+
+28
+00:01:50.817 --> 00:01:53.710
+AI alignment is a central research challenge.
+
+29
+00:01:54.317 --> 00:01:57.468
+Your turn. Say: AI alignment.
+
+30
+00:02:00.333 --> 00:02:02.391
+AI alignment.
+
+31
+00:02:03.150 --> 00:02:04.523
+Moral agency.
+
+32
+00:02:05.517 --> 00:02:10.477
+Moral agency means the capacity to make moral choices and be held responsible.
+
+33
+00:02:11.083 --> 00:02:14.604
+Most thinkers deny that current software has moral agency.
+
+34
+00:02:15.217 --> 00:02:18.403
+Your turn. Say: Moral agency.
+
+35
+00:02:21.267 --> 00:02:22.871
+Moral agency.
+
+36
+00:02:23.617 --> 00:02:24.711
+Regulation.
+
+37
+00:02:25.717 --> 00:02:29.469
+Regulation means official rules that govern how something may be done.
+
+38
+00:02:30.083 --> 00:02:33.871
+Regulation of high-risk systems is advancing in several regions.
+
+39
+00:02:34.483 --> 00:02:37.240
+Your turn. Say: Regulation.
+
+40
+00:02:40.100 --> 00:02:41.124
+Regulation.
+
+41
+00:02:41.883 --> 00:02:43.418
+Societal impact.
+
+42
+00:02:44.417 --> 00:02:48.471
+Societal impact means the effect of something on society as a whole.
+
+43
+00:02:49.083 --> 00:02:52.139
+A societal impact assessment preceded the rollout.
+
+44
+00:02:52.750 --> 00:02:56.157
+Your turn. Say: Societal impact.
+
+45
+00:02:59.000 --> 00:03:00.651
+Societal impact.
+
+46
+00:03:01.467 --> 00:03:05.094
+Part two: dialogue. Let's listen to a conversation.
+
+47
+00:03:05.950 --> 00:03:11.215
+Visal, a hiring algorithm rejected many qualified women. Who is to blame, the program?
+
+48
+00:03:12.317 --> 00:03:19.915
+Not the program, since software lacks moral agency. Developers should be held accountable for algorithmic bias.
+
+49
+00:03:21.017 --> 00:03:22.830
+Even if they didn't intend it?
+
+50
+00:03:23.917 --> 00:03:32.432
+Intent isn't the standard. Systems that affect lives must be tested before deployment, and the results ought to be published.
+
+51
+00:03:33.517 --> 00:03:34.924
+And the company using it?
+
+52
+00:03:36.017 --> 00:03:44.335
+It should be held responsible too. Regulation could be introduced so that both parties are required to demonstrate fairness.
+
+53
+00:03:45.500 --> 00:03:46.861
+Part three: grammar.
+
+54
+00:03:47.717 --> 00:03:50.831
+Grammar focus: Passive modal (should be held).
+
+55
+00:03:51.131 --> 00:03:52.318
+Look at the pattern.
+
+56
+00:03:53.017 --> 00:03:56.142
+Developers should be held accountable for algorithmic bias.
+
+57
+00:03:57.050 --> 00:03:59.502
+Systems must be tested before deployment.
+
+58
+00:04:00.417 --> 00:04:03.357
+The results ought to be published for public scrutiny.
+
+59
+00:04:04.300 --> 00:04:13.140
+Passive modals: should be held, must be tested, ought to be published, could have been prevented. After 'should' and 'must' there is no 'to'; after 'ought' there is.
+
+60
+00:04:13.883 --> 00:04:17.755
+Be careful! Don't say: Developers should hold accountable.
+
+61
+00:04:19.700 --> 00:04:22.501
+Say: Developers should be held accountable.
+
+62
+00:04:22.801 --> 00:04:24.800
+should be + past participle.
+
+63
+00:04:25.600 --> 00:04:29.286
+Part four: reading. Read and listen.
+
+64
+00:04:30.100 --> 00:04:31.798
+Who Answers for the Machine?.
+
+65
+00:04:32.098 --> 00:04:39.589
+As algorithms increasingly decide who receives loans, jobs or parole, the question of responsibility has become urgent.
+
+66
+00:04:40.600 --> 00:04:48.834
+Because current systems lack moral agency, most ethicists argue that blame must fall on the humans who design, deploy and profit from them.
+
+67
+00:04:49.833 --> 00:04:57.928
+Algorithmic bias, which often reflects prejudice hidden in training data, should be detected through audits and corrected before systems are released.
+
+68
+00:04:58.933 --> 00:05:03.754
+Transparency is essential, for decisions that cannot be explained cannot be challenged.
+
+69
+00:05:04.767 --> 00:05:12.374
+Looking further ahead, AI alignment asks whether increasingly autonomous systems can be made to pursue goals that humans would endorse.
+
+70
+00:05:13.467 --> 00:05:17.306
+Part five: quiz. Five questions. Are you ready?
+
+71
+00:05:18.150 --> 00:05:20.800
+Developers should blank accountable for bias.
+
+72
+00:05:21.100 --> 00:05:24.474
+A, hold. B, be held. C, be holding.
+
+73
+00:05:28.033 --> 00:05:29.870
+The answer is B: be held.
+
+74
+00:05:31.017 --> 00:05:34.026
+The obligation to answer for one's actions is blank.
+
+75
+00:05:34.326 --> 00:05:38.200
+A, autonomy. B, accountability. C, alignment.
+
+76
+00:05:41.767 --> 00:05:44.370
+The answer is B: accountability.
+
+77
+00:05:45.517 --> 00:05:48.503
+Unfair patterns in an algorithm's results are blank.
+
+78
+00:05:48.803 --> 00:05:53.559
+A, algorithmic bias. B, transparency. C, regulation.
+
+79
+00:05:57.100 --> 00:05:59.390
+The answer is A: algorithmic bias.
+
+80
+00:06:00.550 --> 00:06:02.306
+Choose the correct sentence.
+
+81
+00:06:02.606 --> 00:06:09.696
+A, Systems must be test first.. B, Systems must tested first.. C, Systems must be tested first..
+
+82
+00:06:13.233 --> 00:06:16.545
+The answer is C: Systems must be tested first..
+
+83
+00:06:17.683 --> 00:06:20.147
+According to the reading, blame must fall on…
+
+84
+00:06:20.447 --> 00:06:25.656
+A, the software itself. B, the humans who design and deploy it. C, no one.
+
+85
+00:06:29.200 --> 00:06:32.604
+The answer is B: the humans who design and deploy it.
+
+86
+00:06:33.800 --> 00:06:36.673
+Part six: speaking. It's your turn to talk.
+
+87
+00:06:37.517 --> 00:06:41.536
+Who should be held accountable when an AI system causes harm?
+
+88
+00:06:58.350 --> 00:06:59.734
+Now listen to Visal.
+
+89
+00:07:00.034 --> 00:07:28.512
+The humans and organisations behind the system should be held accountable, because software cannot bear moral responsibility. Developers must test for bias, and companies that deploy systems should be required to monitor and correct them. Where harm is serious, regulation should assign liability clearly, so that victims are not left without recourse. Accountability works best when it is shared and enforceable.
+
+90
+00:07:28.812 --> 00:07:30.475
+Excellent answer, Visal!
+
+91
+00:07:31.383 --> 00:07:36.044
+Great work! Now you can use eight new words and passive modal (should be held).
+
+92
+00:07:36.344 --> 00:07:41.574
+Today's value is ethical responsibility. Take ownership of the effects of what you create.
+
+93
+00:07:41.874 --> 00:07:44.608
+See you in Unit seventeen. Goodbye!
+
+94
+00:07:44.908 --> 00:07:47.757
+Thank you, Ms. Emma! Bye, everyone!
+
