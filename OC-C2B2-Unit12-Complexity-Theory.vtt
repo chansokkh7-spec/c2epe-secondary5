@@ -1,0 +1,378 @@
+WEBVTT
+
+1
+00:00:00.350 --> 00:00:05.048
+Hello, everyone! I'm Ms. Emma. Welcome to Online C two, Book two.
+
+2
+00:00:05.348 --> 00:00:08.874
+Hi! I'm Visal. Let's learn together!
+
+3
+00:00:09.174 --> 00:00:15.484
+Unit twelve: Complexity Theory. Today you will explain emergence using result-of-interaction language.
+
+4
+00:00:15.784 --> 00:00:18.215
+Here is our lesson map. Let's start!
+
+5
+00:00:19.167 --> 00:00:22.400
+Part one: words. You will learn eight new words.
+
+6
+00:00:23.250 --> 00:00:24.495
+Complex system.
+
+7
+00:00:25.483 --> 00:00:31.326
+Complex system means a system of many interacting parts whose behaviour cannot be predicted from the parts alone.
+
+8
+00:00:31.917 --> 00:00:35.878
+An ecosystem is a complex system with countless interactions.
+
+9
+00:00:36.483 --> 00:00:39.600
+Your turn. Say: Complex system.
+
+10
+00:00:42.467 --> 00:00:43.909
+Complex system.
+
+11
+00:00:44.650 --> 00:00:45.802
+Emergence.
+
+12
+00:00:46.817 --> 00:00:51.370
+Emergence means the appearance of new properties from the interaction of simple parts.
+
+13
+00:00:51.983 --> 00:00:55.318
+Consciousness may be an example of emergence.
+
+14
+00:00:55.917 --> 00:00:58.894
+Your turn. Say: Emergence.
+
+15
+00:01:01.733 --> 00:01:02.874
+Emergence.
+
+16
+00:01:03.617 --> 00:01:04.769
+Nonlinearity.
+
+17
+00:01:05.783 --> 00:01:10.952
+Nonlinearity means a relationship where small changes can cause disproportionate effects.
+
+18
+00:01:11.550 --> 00:01:15.337
+Nonlinearity explains why a small rumour can crash a bank.
+
+19
+00:01:15.950 --> 00:01:18.893
+Your turn. Say: Nonlinearity.
+
+20
+00:01:21.733 --> 00:01:23.083
+Nonlinearity.
+
+21
+00:01:23.817 --> 00:01:25.085
+Feedback loop.
+
+22
+00:01:26.083 --> 00:01:30.335
+Feedback loop means a process in which results influence the process itself.
+
+23
+00:01:30.950 --> 00:01:34.587
+A reinforcing feedback loop accelerated the housing bubble.
+
+24
+00:01:35.183 --> 00:01:38.300
+Your turn. Say: Feedback loop.
+
+25
+00:01:41.167 --> 00:01:42.179
+Feedback loop.
+
+26
+00:01:42.917 --> 00:01:44.336
+Self-organization.
+
+27
+00:01:45.350 --> 00:01:50.867
+Self-organization means order arising spontaneously without central control.
+
+28
+00:01:51.483 --> 00:01:53.831
+Flocks of birds show self-organization.
+
+29
+00:01:54.417 --> 00:01:57.406
+Your turn. Say: Self-organization.
+
+30
+00:02:00.267 --> 00:02:01.662
+Self-organization.
+
+31
+00:02:02.417 --> 00:02:03.360
+Chaos.
+
+32
+00:02:04.350 --> 00:02:08.544
+Chaos means apparent randomness that arises from deterministic rules.
+
+33
+00:02:09.150 --> 00:02:11.753
+Weather forecasting is limited by chaos.
+
+34
+00:02:12.350 --> 00:02:15.084
+Your turn. Say: Chaos.
+
+35
+00:02:17.933 --> 00:02:19.155
+Chaos.
+
+36
+00:02:19.917 --> 00:02:21.312
+Adaptive system.
+
+37
+00:02:22.317 --> 00:02:27.219
+Adaptive system means a system that changes its behaviour in response to its environment.
+
+38
+00:02:27.817 --> 00:02:30.199
+The immune system is an adaptive system.
+
+39
+00:02:30.783 --> 00:02:33.749
+Your turn. Say: Adaptive system.
+
+40
+00:02:36.600 --> 00:02:38.054
+Adaptive system.
+
+41
+00:02:38.817 --> 00:02:40.120
+Interdependence.
+
+42
+00:02:41.117 --> 00:02:44.811
+Interdependence means mutual reliance between parts or groups.
+
+43
+00:02:45.417 --> 00:02:48.531
+Global trade has deepened economic interdependence.
+
+44
+00:02:49.117 --> 00:02:51.804
+Your turn. Say: Interdependence.
+
+45
+00:02:54.667 --> 00:02:56.121
+Interdependence.
+
+46
+00:02:56.933 --> 00:03:01.130
+Part two: dialogue. Let's listen to a conversation.
+
+47
+00:03:01.983 --> 00:03:07.027
+Visal, ants are tiny, yet an ant colony behaves intelligently. How is that possible?
+
+48
+00:03:08.117 --> 00:03:15.285
+No ant directs the colony. Intelligence emerges from the interaction of thousands of simple rules.
+
+49
+00:03:16.383 --> 00:03:18.464
+So the whole is more than its parts?
+
+50
+00:03:19.550 --> 00:03:28.449
+In a sense. Emergence arises from the interaction of many parts, and the pattern cannot be found in any single ant.
+
+51
+00:03:29.550 --> 00:03:31.782
+Does that apply to cities or economies?
+
+52
+00:03:32.883 --> 00:03:43.268
+Absolutely. Market behaviour results from countless decisions, and its feedback loops can produce stability or sudden collapse.
+
+53
+00:03:44.433 --> 00:03:46.189
+Part three: grammar.
+
+54
+00:03:47.050 --> 00:03:50.489
+Grammar focus: Result of interaction language.
+
+55
+00:03:50.789 --> 00:03:51.930
+Look at the pattern.
+
+56
+00:03:52.617 --> 00:03:55.963
+Emergence arises from the interaction of many parts.
+
+57
+00:03:56.850 --> 00:04:00.765
+Market behaviour results from countless individual decisions.
+
+58
+00:04:01.650 --> 00:04:04.718
+Order stems from local rules, not central control.
+
+59
+00:04:05.667 --> 00:04:13.706
+Use 'arise from', 'result from', 'stem from' and 'emerge from' to link an outcome to its sources. Note the preposition: from (never 'of' or 'by').
+
+60
+00:04:14.450 --> 00:04:19.506
+Be careful! Don't say: Emergence arises of the interaction of parts.
+
+61
+00:04:21.467 --> 00:04:25.335
+Say: Emergence arises from the interaction of parts.
+
+62
+00:04:25.635 --> 00:04:26.996
+arise from (not 'of').
+
+63
+00:04:27.800 --> 00:04:30.092
+Part four: reading. Read and listen.
+
+64
+00:04:30.900 --> 00:04:32.122
+More Than the Sum.
+
+65
+00:04:32.422 --> 00:04:39.286
+A complex system is made of many interacting components whose collective behaviour cannot be deduced from the components alone.
+
+66
+00:04:40.300 --> 00:04:48.000
+An ant colony, a rainforest and a stock market all display emergence, a pattern that arises from the interaction of countless simple parts.
+
+67
+00:04:49.000 --> 00:04:57.176
+Such systems are shaped by feedback loops: reinforcing loops amplify change, whereas balancing loops restore stability.
+
+68
+00:04:58.167 --> 00:05:05.704
+Nonlinearity means that small causes may produce disproportionate effects, which is why long-term prediction is so difficult.
+
+69
+00:05:06.700 --> 00:05:12.055
+Complexity theory therefore encourages modest forecasting and careful attention to interdependence.
+
+70
+00:05:13.167 --> 00:05:17.087
+Part five: quiz. Five questions. Are you ready?
+
+71
+00:05:17.950 --> 00:05:21.018
+Emergence arises blank the interaction of parts.
+
+72
+00:05:21.318 --> 00:05:24.205
+A, of. B, from. C, by.
+
+73
+00:05:27.767 --> 00:05:29.418
+The answer is B: from.
+
+74
+00:05:30.583 --> 00:05:33.442
+Order that appears without central control is blank.
+
+75
+00:05:33.742 --> 00:05:38.080
+A, self-organization. B, chaos. C, interdependence.
+
+76
+00:05:41.633 --> 00:05:44.457
+The answer is A: self-organization.
+
+77
+00:05:45.617 --> 00:05:48.661
+A process whose results influence the process is a blank.
+
+78
+00:05:48.961 --> 00:05:53.555
+A, feedback loop. B, substance. C, paradigm.
+
+79
+00:05:57.100 --> 00:05:59.204
+The answer is A: feedback loop.
+
+80
+00:06:00.350 --> 00:06:01.618
+Which is correct?
+
+81
+00:06:01.918 --> 00:06:09.089
+A, Order results of local rules.. B, Order results from local rules.. C, Order results by of local rules..
+
+82
+00:06:12.633 --> 00:06:16.014
+The answer is B: Order results from local rules..
+
+83
+00:06:17.150 --> 00:06:19.614
+According to the reading, balancing loops…
+
+84
+00:06:19.914 --> 00:06:24.833
+A, amplify change. B, restore stability. C, cause chaos.
+
+85
+00:06:28.367 --> 00:06:31.330
+The answer is B: restore stability.
+
+86
+00:06:32.533 --> 00:06:35.697
+Part six: speaking. It's your turn to talk.
+
+87
+00:06:36.550 --> 00:06:40.721
+Can you think of a real-world example of an emergent, complex system?
+
+88
+00:06:57.517 --> 00:06:58.924
+Now listen to Visal.
+
+89
+00:06:59.224 --> 00:07:26.358
+A traffic jam is a good example. No driver intends it, yet it emerges from the interaction of many small decisions: braking, following distance, merging. A single slowdown can spread backwards as a wave through the whole road. The pattern cannot be understood by studying one car. It arises from the system as a whole, which is the essence of emergence.
+
+90
+00:07:26.658 --> 00:07:28.437
+Excellent answer, Visal!
+
+91
+00:07:29.350 --> 00:07:33.813
+Great work! Now you can use eight new words and result of interaction language.
+
+92
+00:07:34.113 --> 00:07:38.542
+Today's value is systems thinking. See how the parts connect to make the whole.
+
+93
+00:07:38.842 --> 00:07:41.553
+See you in Unit thirteen. Goodbye!
+
+94
+00:07:41.853 --> 00:07:44.992
+Thank you, Ms. Emma! Bye, everyone!
+
